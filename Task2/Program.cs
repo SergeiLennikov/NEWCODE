@@ -22,3 +22,16 @@ Console.WriteLine(product3);
 
 double quotint = d1 / i2;
 Console.WriteLine(quotint);
+
+
+int a = 10;
+int b = 7;
+
+if (a > b)
+{
+    Console.WriteLine(a);
+}
+else
+{
+    Console.WriteLine(b);
+}
